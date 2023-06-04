@@ -1,0 +1,22 @@
+{
+    "logo" : "./res/img/logo.ico",
+    "mute" : "./res/img/mute_ico.png",
+    "next" : "./res/img/next_ico.png",
+    "pause" : "./res/img/pause_ico.png",
+    "play" : "./res/img/play_ico.png",
+    "previous" : "./res/img/prev_ico.png",
+    "volume" :"./res/img/vol_ico.png",
+    "width":720,
+    "min_width":520,
+    "max_width":-1,
+    "height":600,
+    "min_height":350,
+    "max_height":-1,
+    "brand":"Music Player",
+    "l_mid_f_bg":"#f1f2f5",
+    "l_mid_f_fg":"#4f6a78",
+    "r_mid_f_bg":"#3490bf",
+    "b_f_bg":"#3497bf",
+    "t_f_bg":"#3490b3",
+    "t_b_bg":"#95bec4"
+}
